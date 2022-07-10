@@ -1,4 +1,4 @@
-## React JS Crash Course
+## React JS Crash Course :rocket:
 
 React is a library for building user interfaces.
 
